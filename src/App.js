@@ -1,7 +1,7 @@
 import { Helmet } from 'react-helmet';
 import './App.css';
 import Navbar from './containers/Navbar';
-import Hero from './containers/Navbar/Hero';
+import Hero from './containers/Hero';
 import Services from './containers/Services';
 import Portfolio from './containers/Portfolio';
 import Clients from './containers/Clients';

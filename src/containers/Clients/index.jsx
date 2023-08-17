@@ -2,7 +2,7 @@ import React from "react";
 
 function Clients() {
   return (
-    <section className="py-32 relative bg-orange-700/10" id="">
+    <section className="py-32 relative bg-orange-700/10" id="clients">
       <div className="absolute top-0 inset-x-0 hidden sm:block">
         <img
           src="assets/images/shapes/white-wave.svg"
